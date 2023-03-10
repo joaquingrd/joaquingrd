@@ -7,9 +7,8 @@
 
 # Tech Skills
 
-## | HTML | CSS | JavaScript | React | Redux | NodeJS | Express | Sequelize | PostgreSQL | TypeScript | Scrum |
+## | HTML | CSS | Bootstrap | JavaScript | React | Redux | NodeJS | Express | Sequelize | PostgreSQL | TypeScript | Scrum |
 
-<br>
 <br>
 
 # Contacto
