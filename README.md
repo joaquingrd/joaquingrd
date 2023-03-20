@@ -11,6 +11,10 @@
 
 <br>
 
+# Tech Skills
+
+## Studying - React Native
+
 # Contacto
 
 <a href="https://linkedin.com/in/joaquindev">
