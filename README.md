@@ -11,9 +11,8 @@
 
 <br>
 
-# Tech Skills
-
-## Studying - React Native
+# Studying
+## React Native
 
 # Contacto
 
