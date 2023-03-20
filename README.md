@@ -11,8 +11,7 @@
 
 <br>
 
-# Studying
-## React Native
+# React Native in progress
 
 # Contacto
 
