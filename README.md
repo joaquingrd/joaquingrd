@@ -9,9 +9,10 @@
 
 ## | HTML | CSS | Bootstrap | JavaScript | React | Redux | NodeJS | Express | Sequelize | PostgreSQL | TypeScript | Scrum |
 
+## I’m currently learning React Native
+
 <br>
 
-# React Native in progress
 
 # Contacto
 
