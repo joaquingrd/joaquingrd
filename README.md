@@ -43,6 +43,4 @@
   <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
 
-###
-
-Email: joaquing.ruizdiaz@gmail.com
+## Email: joaquing.ruizdiaz@gmail.com
