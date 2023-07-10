@@ -33,10 +33,7 @@
 
 ## Contacto
 
-<div align="center">
-
-### Portfolio Linkedin
-
+<div>
 <a href="https://portfolio-joaquinrd.vercel.app/">
   <img  style="margin-right: 10px;" width="50px" src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
 </a>
