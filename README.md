@@ -43,7 +43,7 @@
   <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
 
- <img  style="margin: 0 400px 0 400px;" width="200px" src="./cuak.png" title="https://linkedin.com/in/joaquindev" />
+ <img  style="margin-right: 400px margin-button:400px;" width="200px" src="./cuak.png" title="https://linkedin.com/in/joaquindev" />
 </div>
 
 ###
