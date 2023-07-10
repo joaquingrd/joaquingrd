@@ -30,21 +30,19 @@
 
 📩 Y si te gustó mi perfil, contactame por e-mail a joaquing.ruizdiaz@gmail.com
 
-## Portfolio
+## Contacto
 
+<div>
 <a href="https://portfolio-joaquinrd.vercel.app/">
   <img  width=50px src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
 </a>
-
-## Contacto
-
 <a href="https://linkedin.com/in/joaquindev">
   <img  width=50px src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
+</div>
 
-## joaquing.ruizdiaz@gmail.com
-
-## (+54)91160327735
+joaquing.ruizdiaz@gmail.com
+(+54)91160327735
 
 <!--
 **joaquingrd/joaquingrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
