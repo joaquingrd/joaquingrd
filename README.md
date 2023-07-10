@@ -33,6 +33,7 @@
 
 ### Portfolio
 
+ <img align="right" width="200px" src="./cuak.png" title="https://linkedin.com/in/joaquindev" />
 <a href="https://portfolio-joaquinrd.vercel.app/">
   <img  style="margin-right: 10px;" width="50px" src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
 </a>
@@ -43,7 +44,6 @@
   <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
 
- <img align="right" width="200px" src="./cuak.png" title="https://linkedin.com/in/joaquindev" />
 </div>
 
 ###
