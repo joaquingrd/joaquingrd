@@ -35,14 +35,11 @@
 
 <div align="center">
 
-### Portfolio
+### Portfolio Linkedin
 
 <a href="https://portfolio-joaquinrd.vercel.app/">
   <img  style="margin-right: 10px;" width="50px" src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
 </a>
-
-### Linkedin
-
 <a href="https://linkedin.com/in/joaquindev">
   <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
