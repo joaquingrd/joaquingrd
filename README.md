@@ -31,17 +31,17 @@
 
 📩 Si te gustó mi perfil, contactame por e-mail o Linkedin
 
-## Contacto
+## Portfolio
 
-<div>
 <a href="https://portfolio-joaquinrd.vercel.app/">
   <img  style="margin-right: 10px;" width="50px" src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
 </a>
+
+## Contacto
+
 <a href="https://linkedin.com/in/joaquindev">
   <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
-
-</div>
 
 ###
 
