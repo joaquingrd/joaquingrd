@@ -13,9 +13,9 @@
 
 ###
 
-🧑🏻‍💻Soy Front-end Developer con background en Administración y Contabilidad. Tengo experiencia en JavaScript, TypeScript, Next.JS, React, Redux, Redux Toolkits, NodeJS, Bootstrap y Figma.
+🧑🏻‍💻Soy <b>Front-end Developer</b> con background en <b>Administración y Contabilidad</b>. Tengo experiencia en <b>JavaScript, TypeScript, Next.JS, React, Redux, Redux Toolkits, NodeJS, Bootstrap y Figma</b>.
 
-👨🏻‍🎓Mi formación es Full Stack Web Developer, por lo que cuento con experiencia en back-end con ExpressJS y en base de datos con MongoDB, PostgreSQL, Sequelize.
+👨🏻‍🎓Mi formación es <b>Full Stack Web Developer</b>, por lo que cuento con experiencia en back-end con ExpressJS y en base de datos con MongoDB, PostgreSQL, Sequelize.
 
 🔗Tengo amplio conocimiento en herramientas colaborativas y manejo de ramas con Git y GitHub, y he trabajado en equipos ágiles usando metodologías Scrum
 
@@ -25,10 +25,7 @@
 
 🗣️Tengo fluidez en el idioma portugués y manejo básico del idioma inglés, pero estoy estudiando para seguir mejorando.
 
-📲Te dejo mi portfolio para que lo puedas chusmear, tanto en español como en portugués:
-🌐https://portfolio-joaquinrd.vercel.app/
-
-📩 Y si te gustó mi perfil, contactame por e-mail a joaquing.ruizdiaz@gmail.com
+📩 <b>Si te gustó mi perfil, contactame por e-mail o Linkedin</b>
 
 ## Contacto
 
@@ -45,6 +42,8 @@
 <a href="https://linkedin.com/in/joaquindev">
   <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
+
+ <img  style="margin-right: 10px;" width="50px" src="./cuak.png" title="https://linkedin.com/in/joaquindev" />
 </div>
 
 ###
