@@ -33,7 +33,7 @@
 
 ## Contacto
 
-<div>
+<div align="center">
 
 ### Portfolio
 
