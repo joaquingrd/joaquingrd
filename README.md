@@ -33,15 +33,20 @@
 ## Contacto
 
 <div>
+Portfolio
 <a href="https://portfolio-joaquinrd.vercel.app/">
-  <img  width=50px src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
+Portfolio2
+  <img  style="margin-right: 10px;" width="50px" src="./portfolio.png" title="https://portfolio-joaquinrd.vercel.app/" />
 </a>
 <a href="https://linkedin.com/in/joaquindev">
-  <img  width=50px src="./li.png" title="https://linkedin.com/in/joaquindev" />
+  <img  style="margin-right: 10px;" width="50px" src="./li.png" title="https://linkedin.com/in/joaquindev" />
 </a>
 </div>
 
+###
+
 joaquing.ruizdiaz@gmail.com
+
 (+54)91160327735
 
 <!--
