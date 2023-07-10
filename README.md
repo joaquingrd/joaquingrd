@@ -14,12 +14,10 @@
 ###
 
 🧑🏻‍💻 Soy Front-end Developer con background en Administración y Contabilidad. Tengo experiencia en JavaScript, TypeScript, Next.JS, React, Redux, Redux Toolkits, NodeJS, Bootstrap y Figma.
-
-👨🏻‍🎓 Mi formación es Full Stack Web Developer, por lo que cuento con experiencia en back-end con ExpressJS y en base de datos con MongoDB, PostgreSQL, Sequelize.
-
 <a href="https://github.com/joaquingrd">
 <img align="right" width="200px" src="./cuak.png" title="Cuack" />
 </a>
+👨🏻‍🎓 Mi formación es Full Stack Web Developer, por lo que cuento con experiencia en back-end con ExpressJS y en base de datos con MongoDB, PostgreSQL, Sequelize.
 
 🔗 Tengo amplio conocimiento en herramientas colaborativas y manejo de ramas con Git y GitHub, y he trabajado en equipos ágiles usando metodologías Scrum
 
@@ -52,5 +50,3 @@
 ###
 
 Email: joaquing.ruizdiaz@gmail.com
-
-Tel: (+54) 91160327735
